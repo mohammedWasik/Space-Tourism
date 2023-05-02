@@ -749,8 +749,9 @@ a {
       "tabs content image";
   }
   .grid-container-t > .numbered-title {
-    margin-inline: 4em;
+    margin-inline: 6em;
     grid-area: title;
+    justify-self: start;
   }
   .grid-container-t > .number-indicators {
     font-size: 2em;
